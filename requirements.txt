@@ -1,0 +1,8 @@
+Django
+sklearn
+pandas
+numpy
+sqlalchemy
+djangorestframework
+mysql
+scipy
